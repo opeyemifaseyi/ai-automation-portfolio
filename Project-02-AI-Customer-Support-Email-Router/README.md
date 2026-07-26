@@ -2,15 +2,13 @@
 
 ## 📌 Overview
 
-This project uses AI to automatically classify incoming customer emails and route them to the appropriate department without manual intervention.
+This automation uses AI to analyze incoming customer emails, classify them into the appropriate department (Sales, Support, or Billing), automatically route them, and log every request in Google Sheets.
 
 ---
 
 ## 🎯 Business Problem
 
-Customer support teams receive emails about many different topics, including billing, technical support, sales, and complaints.
-
-Reading and routing each email manually is time-consuming and can delay customer responses.
+Businesses receive many customer emails every day. Manually reading and forwarding each email wastes time and can delay customer responses.
 
 ---
 
@@ -18,10 +16,10 @@ Reading and routing each email manually is time-consuming and can delay customer
 
 This automation:
 
-1. Detects new emails in Gmail.
-2. Uses AI by Zapier to classify each email.
-3. Routes the email to the correct department.
-4. Records the result in Google Sheets.
+1. Detects every new Gmail message.
+2. Uses AI by Zapier to classify the email.
+3. Routes the email to the correct department using Paths.
+4. Records the email details and AI classification in Google Sheets.
 
 ---
 
@@ -31,11 +29,12 @@ Gmail → AI by Zapier → Paths → Gmail → Google Sheets
 
 ---
 
-## 🛠 Tools Used
+## 🛠️ Tools Used
 
 - Zapier
 - Gmail
 - AI by Zapier
+- Paths by Zapier
 - Google Sheets
 
 ---
@@ -48,10 +47,10 @@ Coming Soon
 
 ## 📊 Business Value
 
-- Reduces manual email sorting
-- Faster response times
-- Improves routing accuracy
-- Saves staff time
+- Saves time by eliminating manual email sorting.
+- Improves response speed.
+- Ensures emails reach the correct department.
+- Creates an organized record of all customer requests.
 
 ---
 
@@ -59,6 +58,7 @@ Coming Soon
 
 - AI Classification
 - Prompt Engineering
-- Email Automation
-- Multi-path Workflows
+- Gmail Automation
+- Multi-Path Workflows
+- Google Sheets Integration
 - Business Process Automation
