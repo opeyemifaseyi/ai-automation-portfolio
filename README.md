@@ -26,9 +26,11 @@ Automated employee onboarding using Google Forms, Google Sheets, Gmail, and AI.
 
 ---
 
-## ✅ Project 2 — AI Customer Support Email Router
+### 📧 Project 2 – AI Customer Support Email Router
 
-Automatically routes customer emails to the correct department using AI.
+Uses AI to automatically classify incoming customer emails (Sales, Support, or Billing), route them to the correct department, and log every request into Google Sheets.
+
+➡️ Coming Soon
 
 ---
 
