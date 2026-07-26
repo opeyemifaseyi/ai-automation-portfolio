@@ -1,29 +1,16 @@
 # 📸 Screenshots
 
-## 📝 Google Form
+## Google Form
+![Google Form](google-form.jpeg)
 
-![Google Form](Google-form.jpg)
+## Google Form (Example Submission)
+![Google Form 2](google-form2.jpeg)
 
----
+## Zap Workflow
+![Zap Workflow](zap-workflow.jpeg)
 
-## 📝 Google Form (Example Submission)
+## Google Sheet
+![Google Sheet](google-sheet.jpeg)
 
-![Google Form 2](Google-form2.jpg)
-
----
-
-## ⚡ Zap Workflow
-
-![Zap Workflow](Zap-Workflow.jpg)
-
----
-
-## 📊 Google Sheet
-
-![Google Sheet](Google-Sheet.jpg)
-
----
-
-## 📧 Welcome Email
-
-![Welcome Email](Welcome-email.jpg)
+## Welcome Email
+![Welcome Email](welcome-email.jpeg)
